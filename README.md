@@ -2,7 +2,7 @@
 Performing analysis on Kickstarter data to uncover trends
 
 ### Challenge
-Looking at the Outcomes Based on Goal line graph, success rate is highest at 71.08% when the goal is less than 1,000 dollars and lowest at 16.37% when the goal is greater than 50,000 dollars. There is a weak negative correlation between rate of success and goal amount; as goal amount increase the rate of success decreases.
+Looking at the Outcomes Based on Goal for plays line graph, success rate is highest at 71.08% when the goal is less than 1,000 dollars and lowest at 16.37% when the goal is greater than 50,000 dollars. There is a weak negative correlation between rate of success and goal amount; as goal amount increase the rate of success decreases.
 
 Looking at percentage failed, the rate is lowest when the goal is less than 1,000 dollars (24.94%), and highest when the goal is greater than 50,000 dollars (58.93%). There is a weak positive correlation between rate of failure and goal amount; as the goal amount increases the percentage of success increases.
 
