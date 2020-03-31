@@ -9,7 +9,7 @@ Looking at percentage failed, the rate is lowest when the goal is less than 1,00
 
 Looking at percentage canceled, it has a constant line at 0.0%.
 
-
+![Outcome Based on Launch Date](https://github.com/sdang101/kickstarter-analysis/blob/master/Outcomes%20Based%20on%20Launch%20Date.png)
 Looking at the Outcomes Based on Launch Date for theaters, there are three peaks for months that have a successful outcomes: February (56), May (111), and October (65). February and October are local peaks while May is a global peak meaning May produces the most successful outcome. December is not a good month to launch with 35 failed outcomes and 37 successful outcomes, December has the worst outcome compared to other months. 
 
 With these two graphs, it's evident to launch in May and to have a goal amount of less than 1,000 dollars to have a successful outcome. 
