@@ -2,6 +2,7 @@
 Performing analysis on Kickstarter data to uncover trends
 
 ### Challenge
+![Outcome Based on Goal](https://github.com/sdang101/kickstarter-analysis/blob/master/Outcomes%20Based%20on%20Goal.png)
 Looking at the Outcomes Based on Goal for plays line graph, success rate is highest at 75.81% when the goal is less than 1,000 dollars and lowest at 0.0% when the goal is 45,000 to 49,999 dollars. There is a weak negative correlation between rate of success and goal amount; as goal amount increases the rate of success decreases.
 
 Looking at percentage failed, the rate is lowest when the goal is less than 1,000 dollars (24.19%), and highest when the goal is greater than 45,000 to 49,999 dollars (100.0%). There is a weak positive correlation between rate of failure and goal amount; as the goal amount increases the percentage of success increases.
