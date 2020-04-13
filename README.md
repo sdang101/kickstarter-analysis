@@ -15,4 +15,4 @@ Looking at the Outcomes Based on Launch Date for theaters, there are three peaks
 
 With these two graphs, it's evident to launch in May and to have a goal amount of less than 1,000 dollars to have a successful outcome. 
 
-Though these two graphs don't show us much about whether the length of a caompaign contributes to its success or failure. It'll be useful to see whether the length from the launch date to the deadline is correlated to a successful outcome and the average amount a backer donates. Finding these outcomes will help us know how long to fundraise and the average amount a backer donates.
+Though these two graphs don't show us much about whether the length of a campaign contributes to its success or failure. It'll be useful to see whether the length from the launch date to the deadline is correlated to a successful outcome and the average amount a backer donates. Finding these outcomes will help us know how long to fundraise and the average amount a backer donates.
